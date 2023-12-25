@@ -1,2 +1,2 @@
 Git is a test version control system.
-Git is free software.
+Git is free GPL software.
